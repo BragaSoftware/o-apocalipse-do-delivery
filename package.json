@@ -1,0 +1,24 @@
+{
+  "name": "o-apocalipse-do-delivery-main",
+  "version": "1.0.0",
+  "description": "Intrgrantes * Aluno 1 * Aluno 2",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@stryker-mutator/core": "^9.6.1",
+    "@stryker-mutator/jest-runner": "^9.6.1",
+    "jest": "^30.4.2"
+  }
+}
