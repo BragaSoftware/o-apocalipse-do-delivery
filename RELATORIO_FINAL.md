@@ -14,6 +14,8 @@ O Grafo de Fluxo de Controle mapeia os caminhos lógicos do método principal de
 * **Nó 8:** Fluxo de Recusa: Retorna status 400 (Pagamento Recusado).
 * **Nó 9:** Bloco `catch`: Captura falha de infraestrutura/timeout e retorna status 500.
 
+![Grafo de Fluxo de Controle](./assets/grafo.png)
+
 ### 1.2. Cálculo da Complexidade Ciclomática
 Para determinar cientificamente o número mínimo de caminhos independentes exigidos na suíte de testes unitários, aplicamos a Teoria dos Grafos de McCabe através da fórmula matemática: **V(G) = E - N + 2P**
 
