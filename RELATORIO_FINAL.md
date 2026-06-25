@@ -92,8 +92,8 @@ A suíte de testes unitários desenvolvida via TDD foi submetida ao framework de
 * **Mutantes Eliminados (Killed):** O Stryker alterou laços de repetição e removeu comandos vitais. Os testes falharam e eliminaram essas mutações corretamente.
 * **Mutantes Sobreviventes:** Sobreviveram apenas mutantes em blocos de log internos (`console.error`), justificados como Equivalentes, pois não afetam regra de negócio.
 
-![Relatório Stryker](./assets/Mutantes.png)
-
+![Relatório Stryker](./assets/Mutants.png)
+ 
 ---
 
 ## 4. Engenharia do Caos e Performance (SRE)
