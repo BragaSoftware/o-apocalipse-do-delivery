@@ -121,3 +121,8 @@ Injeção de 5000ms (5 segundos) de latência pura na API parceira:
 ![Resultado do Teste de Carga k6 - Parte 1](./assets/k6-1.png)
 
 ![Resultado do Teste de Carga k6 - Parte 2](./assets/k6-2.png)
+
+### 🎬 Demonstração em Vídeo (Execução ao Vivo)
+
+> **[ARRASTE SEU VÍDEO AQUI NO MODO DE EDIÇÃO DO GITHUB]**
+> *(Após soltar o arquivo aqui, o GitHub vai gerar automaticamente o link. Você pode apagar este texto de aviso depois!)*
