@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/26053025-db80-4113-bfb6-2634c3a0b401
-
 # 📦 EntregasJá - Relatório de Resiliência e Black Friday
 
 ## 1. Grafo de Fluxo de Controle (CFG) do Legado
@@ -128,5 +124,4 @@ Injeção de 5000ms (5 segundos) de latência pura na API parceira:
 
 ### 🎬 Demonstração em Vídeo (Execução ao Vivo)
 
-> **[ARRASTE SEU VÍDEO AQUI NO MODO DE EDIÇÃO DO GITHUB]**
-> *(Após soltar o arquivo aqui, o GitHub vai gerar automaticamente o link. Você pode apagar este texto de aviso depois!)*
+> https://github.com/user-attachments/assets/26053025-db80-4113-bfb6-2634c3a0b401
