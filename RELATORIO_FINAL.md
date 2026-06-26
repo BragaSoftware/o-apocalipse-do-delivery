@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/26053025-db80-4113-bfb6-2634c3a0b401
+
 # 📦 EntregasJá - Relatório de Resiliência e Black Friday
 
 ## 1. Grafo de Fluxo de Controle (CFG) do Legado
